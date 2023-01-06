@@ -12,7 +12,7 @@
 An entity relationship model is visually depicted as an **entity relationship diagram (ERD)**.
 We will create an ERD using a free, browser-based software tool available at [dbdiagram.io](https://dbdiagram.io/home).
 
-## Code-ALong 
+## Code-Along 
 
 ## dbdiagram.io
 
